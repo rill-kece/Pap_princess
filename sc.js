@@ -54,7 +54,7 @@ const photos=[
 "foto52.jpg",
 "foto53.jpg"
 ];
-const perPage=10;let page=0;
+const perPage=8;let page=0;
 const g=document.getElementById('gallery');
 function render(){
  g.innerHTML='';
